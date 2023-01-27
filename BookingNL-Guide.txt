@@ -1,0 +1,17 @@
+In this repository you can find:
+- back end folder
+- front end folder
+- documentation(hidden in the back end folder)
+Each folder contains:
+- Dockerfiles, used for images
+- Tests(Integration and UT for BE | Cypress tests for FE)
+Functionalities:
+- Register
+- Log in
+- Create destination(as admin- email:ga@abv.bg ; password:1234)
+- Delete destination(as admin)
+- See all destinations
+- See a particular destination
+- Chat with other users
+- Make reservations
+- Search destination by name
